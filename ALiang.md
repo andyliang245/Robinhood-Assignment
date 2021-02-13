@@ -7,6 +7,7 @@
 
 >"provide everyone with access to the financial markets, not just the wealthy"
 
+#### ![RobinHood](https://images.squarespace-cdn.com/content/v1/53fe4a70e4b0a2293ab0e42a/1574229296871-D2SIGN1VO61WMBC53YSZ/ke17ZwdGBToddI8pDm48kIv1eRxmCZFk7wPskLZxZLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ud1i56K1peVjEiTiJFF-cBfU9wtkkpYZJUdVbjH_EJtFiQPLAxTDf9LhsMopfbMdrw/Robinhood%2BUK_Charts.jpg)
 
 ### Competitors
 * Fidelity
